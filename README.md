@@ -27,7 +27,7 @@ The project leverages AWS to simulate real-time streaming data using the Kinesis
 - Stream data directly into the `data2dashboard` Kinesis Data Stream.
 
   <img width="1021" alt="Screenshot 2025-03-14 at 10 07 17 AM" src="https://github.com/user-attachments/assets/294c4245-3bbf-4cc1-b8ec-49ee72391403" />
-![lab1arch](https://github.com/user-attachments/assets/598a0bc1-e805-49fc-a26d-73366e943fc2)
+
 
 
 ### 2. Real-time Data Processing
